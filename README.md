@@ -1,6 +1,6 @@
-# Random-Forest-Classification-Model
 
-Academic Project
+
+
 
 Predicting the Eligibility of Bank Customer for a Loan Using Random Forest Modeling
 
